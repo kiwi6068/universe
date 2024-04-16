@@ -1,6 +1,6 @@
-drop database universe;
 
-create database "universe";
+
+CREATE DATABASE "universe";
 
 
 \c universe;
